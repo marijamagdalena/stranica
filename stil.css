@@ -1,0 +1,62 @@
+body {
+    background-image:url("222.jpg") ;
+    background-color: #cccccc;
+    background-repeat: no-repeat;
+    background-size: cover;
+  }
+  h1,h2, p {
+    color: white;
+    text-align: center;
+    margin-top: 10px;
+    margin-bottom: 5px;
+    margin-right: 150px;
+    margin-left: 80px;
+    font-family: 'Gravitas One', cursive;
+    font-size: 40px;
+  }
+  p {
+    font-family:'Nobile', Helvetica, Arial, sans-serif ;
+    font-size: 25px;
+    color:#663399;
+  }
+  ol.prva {
+    font-family: Calibri;
+    font-size: 20px;
+    color: white;
+    font-weight: bold;
+    text-transform: uppercase;
+    text-align: center;
+    }
+   ol.prva li {
+    display: inline;
+    margin-top:10px;
+    margin-left:3px;
+    padding: 0 20px;
+    background-color:hsla(244, 34%, 73%, 0.9) ;
+   
+}
+
+  
+  section {
+    color: white;
+    text-align: center;
+    background-color:hsla(244, 34%, 73%, 0.9);
+    margin-top: 10px;
+    margin-bottom: 20px;
+    margin-right: 150px;
+    margin-left: 80px;
+    padding-bottom:25px;
+    font-size: 20px;
+    border: 2px solid black;
+    outline-style: outset;
+    outline-color: grey;
+    font-variant: small-caps
+  
+  }
+  footer {
+    color: white;
+    font-size:20px ;
+    text-align: center;
+    border-top: 1px solid white;
+    padding-top: 25px;
+  }
